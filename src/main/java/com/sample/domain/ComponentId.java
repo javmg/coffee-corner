@@ -1,0 +1,15 @@
+package com.sample.domain;
+
+public enum ComponentId {
+
+    COFFEE_SMALL,
+    COFFEE_MEDIUM,
+    COFFEE_LARGE,
+
+    COFFEE_EXTRA_MILK,
+    COFFEE_FOAMED_MILK,
+    COFFEE_SPECIAL_ROAST_COFFEE,
+
+    BACON_ROLL,
+    FRESHLY_SQUEEZED_ORANGE_JUICE,
+}
